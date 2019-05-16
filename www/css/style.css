@@ -11,12 +11,12 @@ header {
   height: 400px;
   position: absolute;
   top: 0;
-  width: 100%;
+  width: 50%;
 }
 
 header .titulo {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 100%;
 }
 
 main {
@@ -24,8 +24,8 @@ main {
 }
 
 main .contenedor {
-  width: 90%;
-  max-width: 1000px;
+  width: 100%;
+  max-width: 500px;
   margin: auto;
 }
 .titulo {
@@ -166,4 +166,24 @@ body {
 }
 .fondo {
   background: purple
+}
+.texto{
+  text-align:justify;
+}
+.fondo1{
+  background-color:white;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  width:100%;
+  height:100%;
+}
+.ADNT{
+ text-align:justify;
+ color:orange;
+ font-style:bold;
+ font-size:15px;
+ border:2px black;
+ border-radius:15px;
 }
