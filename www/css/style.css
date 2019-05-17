@@ -171,7 +171,7 @@ body {
   text-align:justify;
 }
 .fondo1{
-  background-color:maroon;
+  background-color:purple;
   -webkit-background-size:cover;
   -moz-background-size:cover;
   -o-background-size:cover;
@@ -190,4 +190,10 @@ body {
 .titulos{
   text-align:center;
   font-size:bolder;
+}
+background: url("../img/lil.jpg")no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: color;
 }
