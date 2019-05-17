@@ -165,13 +165,13 @@ body {
   background: linear-gradient(135deg, #160c23, #7b6762);
 }
 .fondo {
-  background: purple
+  background: black
 }
 .texto{
   text-align:justify;
 }
 .fondo1{
-  background-color:white;
+  background-color:maroon;
   -webkit-background-size:cover;
   -moz-background-size:cover;
   -o-background-size:cover;
@@ -181,9 +181,13 @@ body {
 }
 .ADNT{
  text-align:justify;
- color:orange;
+ color:white;
  font-style:bold;
  font-size:15px;
  border:10px black;
  border-radius:30px;
+}
+.titulos{
+  text-align:center;
+  font-size:bolder;
 }
